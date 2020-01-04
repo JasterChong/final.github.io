@@ -1,0 +1,42 @@
+ul li{
+display: inline;
+text-align: center;
+}
+#information{
+text-align: center;
+padding-top: 5%;
+margin-left: 10%;
+margin-right: 10%;
+}
+.total{
+background-color: ghostwhite;
+margin: 5% auto;
+}
+.boxes {
+padding: 2px 16px;
+}
+.boxes {
+/* Add 7hadows to create the "card" effect */
+padding-top: 3%;
+background-color: ghostwhite;
+width:80%;
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+transition: 0.3s;
+}
+.boxes:hover {
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.left{
+margin-left: 5%;
+}
+.right{
+margin-right: 5%;
+}
+.information{
+padding-top: 5%;
+margin-left: 15%;
+margin-right: 10%;
+}
+.table td, .table th {
+    vertical-align: middle;
+}
